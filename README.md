@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Truong Loc</h1>
 <h3 align="center">
-  A Fullstack Developer passionate about crafting efficient, user-centric software solutions that make a meaningful impact.
+...
 </h3>
 
 ---
 
 ### 🖥️ About Me
 
-- 🔭 Currently working on **Fullstack Web Development**
-- 🌱 Expanding knowledge in **DevOps, Security Best Practices, and Optimized Technology Solutions**
-- ⚡ Fun fact: I thrive in collaborative, friendly environments that inspire creativity and productivity.
+....
 
 ---
 
