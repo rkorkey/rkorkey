@@ -81,3 +81,22 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin: 5px;"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
   </a>
+  ---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fernix8&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernix8&theme=radical" alt="GitHub Streak Stats" width="400px" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernix8&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400px" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fernix8&margin-w=15&margin-h=15&column=7&no-frame=true&theme=gruvbox" alt="GitHub Trophies" />
+  </a>
+</p>
